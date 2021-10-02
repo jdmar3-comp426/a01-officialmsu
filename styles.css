@@ -4,6 +4,21 @@
 #maintext{
     font-family: 'Arial';
 }
-ul{
+#nav-list{
     list-style-type: none;
+    height:8vh;
+    background-color: #0067ee;
+}
+li > a{
+    color: white;
+    text-decoration: none;
+    display: block;
+    width: 100%;
+    padding: 15px 15px;
+}
+li {
+    float: left;
+    background-color: #c70c05;
+    margin-right: 5%;
+    height:100%;
 }
