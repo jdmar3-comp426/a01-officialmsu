@@ -30,3 +30,10 @@ li {
 #navigation{
     margin-top: 0;
 }
+li:hover{
+    background-color: #c70c05;
+    opacity: 0.75;
+}
+ul li{
+    font-family: 'Georgia';
+}
