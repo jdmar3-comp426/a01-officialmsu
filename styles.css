@@ -37,3 +37,35 @@ li:hover{
 ul li{
     font-family: 'Georgia';
 }
+#link1{
+    text-shadow: 2px 4px 3px black;
+}
+#link2{
+    text-shadow: 2px 4px 3px black;
+}
+#link3{
+    text-shadow: 2px 4px 3px black;
+}
+#link4{
+    text-shadow: 2px 4px 3px black;
+}
+#tab1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#tab2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#tab3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+#tab4{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
